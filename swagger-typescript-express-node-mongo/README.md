@@ -1,1 +1,0 @@
-# swagger-typescript-express-node-mongo
